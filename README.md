@@ -7,5 +7,5 @@ Adapta y utiliza esta tabla de puntuación para cada herramienta que estés cons
 | **Vercel v0** | 5 | 3 | 5 | 2 | 2 | 1 | 5 | 1 | **4** | Excelente para prototipado rápido de interfaces visuales con IA, pero dependes mucho de su ecosistema para desplegar. |
 | **Replit** | 4 | 1 | 4 | 1 | 1 | 3 | 5 | 1 | **3** | Te da un entorno completo en la nube al instante, aunque el costo de las funciones premium de IA puede ser elevado. |
 | **Lovable** | 5 | 3 | 4 | ? | 3 | 3 | 4 | 1 | **4** | Genera aplicaciones web completas de forma muy intuitiva a partir de lenguaje natural, ideal si priorizas velocidad visual. |
-| **Windsurf** | 3 | 5 | 3 | 5 | 5 | 5 | 5 | 5 | **5** | Al ser un agente de IA con深度 (profundo) contexto, permite mantener código local con control absoluto y alta calidad. |
+| **Windsurf** | 3 | 5 | 3 | 5 | 5 | 5 | 5 | 5 | **5** | Al ser un agente de IA con contexto profundo, permite mantener código local con control absoluto y alta calidad. |
 | **Cursor** | 2 | 4 | 3 | 5 | 4 | 5 | 4 | 5 | **5** | El estándar actual para desarrollo local guiado por IA. Ofrece la mejor relación entre control del código y potencia del agente. |
