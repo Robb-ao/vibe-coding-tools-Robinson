@@ -1,6 +1,6 @@
 # Evaluando Herramientas de Vibe Coding 🚀
 
-Adapta y utiliza esta tabla de puntuación para cada herramienta que estés considerando. Los valores iniciales son ejemplos de la lección "Mis Herramientas de Vibe Coding Preferidas". Agrega tus propias herramientas a la lista y completa las calificaciones basándote en tu investigación y necesidades.
+Este repositorio contiene mi análisis personal y la tabla de puntuación de diferentes herramientas de desarrollo asistido por IA, evaluando criterios como el control del código, costo y facilidad de uso según mis necesidades actuales de aprendizaje.
 
 | Herramienta | UI/UX | Costo | Velocidad | Dependencia de Plataforma | Control | Mantenibilidad | Calidad del Código | Reutilización | Tu Calificación para Tus Necesidades (1-5) | Notas/Justificación |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :--- |
