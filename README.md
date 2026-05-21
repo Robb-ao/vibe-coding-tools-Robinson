@@ -9,3 +9,5 @@ Este repositorio contiene mi análisis personal y la tabla de puntuación de dif
 | **Lovable** | 5 | 3 | 4 | ? | 3 | 3 | 4 | 1 | **4** | Genera aplicaciones web completas de forma muy intuitiva a partir de lenguaje natural, ideal si priorizas velocidad visual. |
 | **Windsurf** | 3 | 5 | 3 | 5 | 5 | 5 | 5 | 5 | **5** | Al ser un agente de IA con contexto profundo, permite mantener código local con control absoluto y alta calidad. |
 | **Cursor** | 2 | 4 | 3 | 5 | 4 | 5 | 4 | 5 | **5** | El estándar actual para desarrollo local guiado por IA. Ofrece la mejor relación entre control del código y potencia del agente. |
+**ChatGPT** | 4 | 4 | 3 | 1 | 2 | 2 | 3 | 2 | **3** | Es un chat general, por lo que sirve para resolver dudas y generar fragmentos sueltos, pero no gestiona un proyecto entero solo. |
+| **Gemini** | 4 | 4 | 4 | 1 | 2 | 2 | 3 | 2 | **4** | Muy potente como asistente de chat para resolver dudas, explicar código complejo y proponer algoritmos lógicos estructurados. |
